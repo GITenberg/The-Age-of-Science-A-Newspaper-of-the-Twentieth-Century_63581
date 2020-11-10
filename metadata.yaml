@@ -1,0 +1,30 @@
+_repo: The-Age-of-Science-A-Newspaper-of-the-Twentieth-Century_63581
+_version: 0.0.1
+alternative_title: 'The Age of Science: A Newspaper of the 20th Century'
+creator:
+  author:
+    agent_name: Cobbe, Frances Power
+    alias: Nostradamus, Merlin
+    birthdate: 1822
+    deathdate: 1904
+    gutenberg_agent_id: '45332'
+    url: http://www.gutenberg.org/2009/agents/45332
+    wikipedia: https://en.wikipedia.org/wiki/Frances_Power_Cobbe
+description: ''
+gutenberg_issued: '2020-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63581'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Satire'
+- !lcsh 'Dystopias -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'The Age of Science: A Newspaper of the Twentieth Century'
+url: http://www.gutenberg.org/ebooks/63581
