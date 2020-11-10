@@ -1,6 +1,9 @@
 _repo: The-Age-of-Science-A-Newspaper-of-the-Twentieth-Century_63581
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: 'The Age of Science: A Newspaper of the 20th Century'
+covers:
+- cover_type: archival
+  image_path: 63581-h/images/cover.jpg
 creator:
   author:
     agent_name: Cobbe, Frances Power
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/45332
     wikipedia: https://en.wikipedia.org/wiki/Frances_Power_Cobbe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63581#The-Age-of-Science-A-Newspaper-of-the-Twentieth-Century
 gutenberg_issued: '2020-10-31'
 gutenberg_type: Text
 identifiers:
